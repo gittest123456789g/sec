@@ -474,6 +474,10 @@ body {
 .gro-cc h4{
   text-align: center;
 }
+.swiper{
+  width: 80%;
+  height: 80%;
+}
 }
 @media (max-width:799px) {
   .hoa-footer{
